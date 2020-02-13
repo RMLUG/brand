@@ -52,5 +52,6 @@ folder in this repository.
 
 ## Fonts
 
-Use Source Sans Pro for body text and Monoid as monospace, heading, and 
-quotation text.
+Use [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) for body 
+text and [Monoid](https://github.com/larsenwork/monoid) as monospace, heading, 
+and quotation text.
