@@ -1,3 +1,5 @@
+![RMLUG Logo](https://raw.githubusercontent.com/isantop/rmlug-logo/master/rmlug-logo-preview.png)
+
 This is the logo for the Rocky Mountain LUG. It is available under the terms
 as specified in LICENSE.md
 
