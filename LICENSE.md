@@ -1,6 +1,6 @@
 ## License
 
-Copyright 2020 by Ian Santopietro <isantop@gmail.com>
+Copyright 2020 by Rocky Mountain Linux Users Group
 This content is available under a Creative Commons Attribution-ShareAlike 4.0
 International license (CC-BY-SA 4.0)
 
